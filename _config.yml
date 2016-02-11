@@ -1,0 +1,28 @@
+name: Testi
+favicon: null
+layout_spectrum: 0.9633278553374112
+typography_spectrum: 0.8414898468181491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5675868561957031
+  lightness: 0.6454718005843461
+  saturation: 0.6860431958921254
+  rhythmicContrast: 0.10038465890102088
+purpose: []
